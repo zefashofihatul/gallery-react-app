@@ -6,7 +6,7 @@ Project ini merupakan pengimplementasian react project sederhana dengan mengguna
 
 ## Daftar API yang digunakan (Consume)
 
-#### Request
+### Unsplash
 
 #### `GET /photos/random`
 
