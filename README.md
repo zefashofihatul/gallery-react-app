@@ -22,11 +22,11 @@ Terdapat beberapa cara dalam menjalankan aplikasi ini, yang pertama dijalankan d
 
 ### Menjalankan project dengan instalasi
 
-#### `npm install`
+### `npm install`
 
 Pertama, install terlebih dahulu depedency project yang dibutuhkan dengan `npm install`. Depedency utamanya adalah React JS.
 
-#### `npm run start`
+### `npm run start`
 
 Selanjutnya anda dapat langsung menjalankan project ini dengan menggunakan perintah `npm run start`
 
@@ -34,10 +34,10 @@ Selanjutnya anda dapat langsung menjalankan project ini dengan menggunakan perin
 
 ### Menjalankan project pada folder build dengan static server
 
-#### `npm install -g serve`
+### `npm install -g serve`
 
 Install terlebih dahulu package pendukung pada local system anda,
 
-#### `serve -s build`
+### `serve -s build`
 
 Pastikan pointer folder anda terdapat pada main folder. Dan jalankan perintah `serve -s build` untuk menjalankan server static anda.
