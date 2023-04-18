@@ -1,0 +1,15 @@
+.main-header {
+  margin-top: 98px;
+}
+
+.main-header h3 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+.main-header h1 {
+  font-size: 54px;
+  line-height: 32px;
+  font-weight: 800px;
+}
