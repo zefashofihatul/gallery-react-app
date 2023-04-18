@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Gallery Form React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project ini merupakan pengimplementasian react project sederhana dengan menggunakan template `create react app` dan best practice dalam fetching data dari open API `https://unsplash.com`.
+
+<br />
+
+## Daftar API yang digunakan (Consume)
+
+#### Request
+
+#### `GET /photos/random`
+
+Untuk mendapatkan gambar random. Dokumentasi lengkap [Doc Unsplash](https://unsplash.com/documentation#list-photos)
 
 <br />
 
